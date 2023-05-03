@@ -22,7 +22,7 @@ class _MyAppState extends State<MyApp> {
   String _cidade = "xxxx";
   String _uf = "xxxx";
 
-  String _dataHoje = "xx/xx/xxxx";
+  String _dataHoje = "xx/xx/xxxxx";
   String _hora = "xx:xx";
   String _temperatura = "xx°";
   String _descricaoHoje = "xxxx";
